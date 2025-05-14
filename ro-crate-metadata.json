@@ -21,10 +21,13 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-02-07T16:26:57.747008",
+            "datePublished": "2025-05-14T21:59:24.045357",
             "hasPart": [
                 {
                     "@id": "Mitogenome-Assembly-VGP0.ga"
+                },
+                {
+                    "@id": "README.md"
                 },
                 {
                     "@id": "Mitogenome-Assembly-VGP0-tests.yml"
@@ -64,7 +67,7 @@
                     "@id": "https://vertebrategenomeproject.org"
                 },
                 {
-                    "@id": "#604fa580-e65f-48fc-a06b-54cc91246b3c"
+                    "@id": "#6641ab7b-774d-4f82-8a8a-abcd76984e00"
                 }
             ],
             "name": "Mitogenome-assembly-VGP0/main",
@@ -72,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Mitogenome-assembly-VGP0",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -92,9 +95,13 @@
             "name": "VGP"
         },
         {
-            "@id": "#604fa580-e65f-48fc-a06b-54cc91246b3c",
+            "@id": "#6641ab7b-774d-4f82-8a8a-abcd76984e00",
             "@type": "Organization",
             "name": "Galaxy"
+        },
+        {
+            "@id": "README.md",
+            "@type": "File"
         },
         {
             "@id": "#test_main_1",
@@ -139,7 +146,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.20"
+            "engineVersion": ">=0.75.30"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
