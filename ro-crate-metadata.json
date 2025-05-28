@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-05-14T21:59:24.045357",
+            "datePublished": "2025-05-28T17:08:25.469807",
             "hasPart": [
                 {
                     "@id": "Mitogenome-Assembly-VGP0.ga"
@@ -67,7 +67,7 @@
                     "@id": "https://vertebrategenomeproject.org"
                 },
                 {
-                    "@id": "#6641ab7b-774d-4f82-8a8a-abcd76984e00"
+                    "@id": "#26ae1f0d-ffc8-4634-9c2e-0c6325391846"
                 }
             ],
             "name": "Mitogenome-assembly-VGP0/main",
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Mitogenome-assembly-VGP0",
-            "version": "0.2"
+            "version": "0.2.1"
         },
         {
             "@id": "#galaxy",
@@ -95,7 +95,7 @@
             "name": "VGP"
         },
         {
-            "@id": "#6641ab7b-774d-4f82-8a8a-abcd76984e00",
+            "@id": "#26ae1f0d-ffc8-4634-9c2e-0c6325391846",
             "@type": "Organization",
             "name": "Galaxy"
         },
